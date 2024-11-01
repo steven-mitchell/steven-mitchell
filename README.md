@@ -1,4 +1,5 @@
-## Hi there 👋
+# Howdy y'all! I'm Steven. Welcome to my nerd-zone! 
+
 
 <!--
 **steven-mitchell/steven-mitchell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

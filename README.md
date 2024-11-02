@@ -1,7 +1,7 @@
 # Howdy y'all! I'm Steven. Welcome to my nerd-zone! 
 
 <picture>
-  <img alt="Steven's Octocat" src="https://i.imgur.com/MQZsh2C.png" align = right size = 50%>
+  <img align="right" alt="Steven's Octocat" src="https://i.imgur.com/i2guTrD.png" width = "300" style="max-width: 100%;" >
 </picture>
 
 <!--

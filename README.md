@@ -1,8 +1,13 @@
 # Welcome to my nerd-zone! 
 
+
+ <img align="right" alt="Steven's Octocat. They have a short-cropped auburn beard and long blonde hair with a pink polka-dot bow, a purple flannel, jeans and hiking boots. They have a helix piercing on one ear and some light makeup. They're holding a coffee mug." src="https://i.imgur.com/i2guTrD.png" width = "300" style="max-width: 100%;" >
+
+
 Through my 10 years of experience in conservation biology and public land management, I bring expertise in leading environmental projects and programs to inform management decisions. In past jobs, I've authored Biological Assessments, Environmental Impact Statements, technical reports, and policy recommendation memos to shape management decisions impacting public lands. Beyond my technical expertise, I have also worked as a policy advisor and facilitator of collaborative management via my Master’s project with TNC Colorado.
 
 Some highlights:
+
 
 •	Program Management—With the NPS and as a private consultant, hired, trained, and supervised professional-level staff, managed complex budgets, oversaw equipment acquisition and maintenance, and navigated adherence to state and federal statutes and administrative rules. 
  
